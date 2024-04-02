@@ -5,4 +5,7 @@ public class GamePanel {
     public GamePanel (Game game){
         this.game = game;
     }
+    public Game getGame(){
+        return game;
+    }
 }
