@@ -4,119 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928ec14c-590f-40fa-bbd6-6a9ca4e45d10" name="Changes" comment="gvg">
-      <change afterPath="$PROJECT_DIR$/Main/src/Main/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main/src/Main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main/src/Main/GameWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main/src/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c9b5fba6-ca91-495f-ab77-89e18e38f59b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2dtkz1AxId6dWWPohl6JZIoOIxW" />
-=======
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;nghinp&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="8d91d1db-6d47-4767-8437-60cd0fdfe6d9" />
-        <option name="url" value="https://github.com/Jenniferduong20012004/Jenny_DSA_Project.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2dtnIyz6Jrfw2iTlRpXxW5H99Uf" />
->>>>>>> 294d3dc33d20bf034bfa9c16e810ea718bef0fe9
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2eYPOuvgESmFKBJD9wpEPuU05kI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-<<<<<<< HEAD
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "21",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-=======
-    "WebServerToolWindowFactoryState": "false",
->>>>>>> 294d3dc33d20bf034bfa9c16e810ea718bef0fe9
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Admin/Documents/GitHub/Jenny_DSA_Project/Main/src/Main.java",
+    "onboarding.tips.debug.path": "F:/DSA/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="928ec14c-590f-40fa-bbd6-6a9ca4e45d10" name="Changes" comment="" />
-      <created>1710835020479</created>
+      <changelist id="c9b5fba6-ca91-495f-ab77-89e18e38f59b" name="Changes" comment="" />
+      <created>1712078512805</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1710835020479</updated>
-      <workItem from="1710835021597" duration="510000" />
-      <workItem from="1710863920799" duration="8000" />
-      <workItem from="1712075904490" duration="680000" />
-=======
-      <updated>1710836166029</updated>
-      <workItem from="1710836167120" duration="288000" />
-      <workItem from="1710836493148" duration="124000" />
->>>>>>> 294d3dc33d20bf034bfa9c16e810ea718bef0fe9
+      <updated>1712078512805</updated>
+      <workItem from="1712078513909" duration="738000" />
     </task>
-    <task id="LOCAL-00001" summary="gvg">
-      <option name="closed" value="true" />
-      <created>1710835100356</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1710835100356</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="gvg" />
-    <option name="LAST_COMMIT_MESSAGE" value="gvg" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
